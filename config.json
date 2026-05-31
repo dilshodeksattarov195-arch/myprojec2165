@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusteruonnect",
+        "uuid": 15453770,
+        "checksum": "jc6e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
